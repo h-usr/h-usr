@@ -1,6 +1,6 @@
 - 🤙 Hi, I’m @h-usr, an italian developer in the 20s 
 - 👨‍💻 I’m interested in anything tech; have some experience with C, Java, Python + Electronics (Arduino/Raspberry/various PLCs) + 3d Printing (proud Ender3 owner)
-- 🌱 I’m currently striving to get better at developing; I'm curious about Data Science and AI
+- 🌱 I’m costantly striving to get better; I'm curious about Data Science and AI
 - 📧 You can reach me at lorand.cel@gmail.com
 
 <!---
