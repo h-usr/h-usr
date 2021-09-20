@@ -2,7 +2,7 @@
 - 👨‍💻 I’m interested in anything tech; have some experience with:<br />
   C, C#, Java, Python, MySQL projects<br />
   Unity engine<br />
-  Electronics, Arduino and Raspberry, automation with PLCs and robots<br />
+  Electronics, Arduino / PIC (mainly 16F88x) / Raspberry projects, automation with PLCs and robots<br />
   3d Printing (proud Ender3 owner)<br />
 - 🤖 Working as Industrial Automation Software Developer
 - 🌱 Costantly striving to get better; I'm curious about Data Science and AI
